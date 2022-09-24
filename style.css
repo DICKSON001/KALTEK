@@ -1,0 +1,95 @@
+.img{
+    margin-top: 10px;
+    height: 300px;
+    aspect-ratio: 1;
+    border-radius: 250px
+}
+body{
+padding: 2px;
+margin: 5px;
+background: none;
+}
+.nav{
+    background-color: rgb(72, 72, 211);
+    padding: 10px;
+    font-size: 20px;
+    word-spacing: 20px
+}
+.h{
+    text-transform: uppercase;
+    color: white;
+    display: contents;
+    font-weight: bold
+}
+.min{
+    float: right;
+    font-weight: bolder;
+    font-style: italic;
+    color: green;
+    font-size:x-large;
+}
+p{
+    font-weight: bold;
+    font-size: larger;
+}
+#img{
+    float: right;
+    height: 300px;
+    width: 500px;
+    border-radius: 350px;
+}
+.umu{
+    font-style: italic;
+    font-size: x-large;
+}
+.form{
+    padding-top: 2px;
+    
+}
+.input{
+    margin: 10px 0px;
+}
+.div{
+    margin: 20px 0px;
+    padding-left:20px;
+    font-size: medium;
+    font-weight: bold;
+}
+#res{
+    border-radius: 20px;
+    background-color: red;
+}
+.tab{
+    float: right;
+}
+.tabs{
+    padding-left: 2px;
+    height: 50px;
+    width: 60px;
+}
+.tabz{
+    margin-bottom: 0;
+}
+.logo{
+    float: right;
+    
+}
+.log{
+    width: 800px;
+    height: 400px;
+}
+#nov{
+    font-style: normal;
+    font-size: medium;
+    font-weight: bolder;
+}
+h2{
+    font-size: larger;
+    color: green;
+    font-weight: bold;
+    text-align: center;
+}
+#ug{
+    font-style: italic;
+    margin-left: 4px;
+}
